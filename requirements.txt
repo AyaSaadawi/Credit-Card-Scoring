@@ -1,0 +1,7 @@
+pandas version: 2.2.2
+numpy version: 1.26.4
+scikit-learn version: 1.5.2
+imbalanced-learn version: 0.12.4
+matplotlib version: 3.7.1
+seaborn version: 0.13.2
+joblib version: 1.4.2
